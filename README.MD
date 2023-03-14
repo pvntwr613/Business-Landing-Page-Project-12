@@ -1,7 +1,7 @@
 
 
 ## Business Landing Page(Project-12)  
-[Live Link]()
+[Live Link](https://business-landing-page-project-12.vercel.app/)
 
 **Name:**Pavan Tiwari
 
