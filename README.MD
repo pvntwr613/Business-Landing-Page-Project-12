@@ -10,4 +10,4 @@
 **The project took ***8 Hours*** to complete.** 
 
 
-![image](./12.pngg)
+![image](./12.png)
